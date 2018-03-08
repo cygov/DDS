@@ -2,10 +2,10 @@
 ### User Research Questions
 **1. How did you first come to know about the dds.mil website?**
 - When I was researching [code.mil](https://code.mil)
-- I found [DDS Medium Blog](https://medium.com/@DefenseDigitalService) first.
+- I found [DDS Medium Blog](https://medium.com/@DefenseDigitalService) first. <br />
 **2. What was the first thing you looked/ clicked on, while visiting dds.mil? What was the last?**
 *First:* The logos underneath `Our work`.
-*Last:* Photos at the bottom to try and decipher what is pictured.
+*Last:* Photos at the bottom to try and decipher what is pictured. <br />
 **3. What are the things you like or dislike about current dds.mil?**
 ###### Likes
 - Clean, "one-page" format
