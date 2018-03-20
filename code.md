@@ -8,7 +8,7 @@
 - Why should government employees be concerned about moving their code to the public domain? Who cares?
 - Isn't it a lot of "busy work" to open source software? How will this help govies do their work better?
 - What about security? Doesn't releasing our source code to the world open up critical US infrastructure to malicious attacks?
-- 
+-
 ### Speakers
-**Ari Chivukula:** Policy wrangler working with the US Digital Service team at Department of Defense in cloud security, cyber warfare, and open source.
-**Jordan Kasper:** Evangelist, developer, community organizer, open sourcer (and he's been called worse). Currently improving tech at the US Digital Service.
+- **Ari Chivukula:** Policy wrangler working with the US Digital Service team at Department of Defense in cloud security, cyber warfare, and open source.
+- **Jordan Kasper:** Evangelist, developer, community organizer, open sourcer (and he's been called worse). Currently improving tech at the US Digital Service.
